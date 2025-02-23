@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 sequenceDiagram
     Title Part 0.4 New note diagram
     participant browser
@@ -32,4 +32,4 @@ sequenceDiagram
     deactivate server    
 
     Note right of browser: The browser executes the callback function that renders the notes
-'''    
+```
